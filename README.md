@@ -1,3 +1,4 @@
+>> Data Preparation and Data Mining จารุพร การร้อย 643021261-5
 # BSC_DPDM23
 
 Data Preparation and Data Mining
