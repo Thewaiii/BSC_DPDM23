@@ -15,8 +15,8 @@ Final Score = Score * %attendance
 **************************************************************************************************
 # Decision Tree
 HW2
-![image](![420042447_1811338039303351_3966380268572674402_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/2f45b41b-6107-48ba-8a6e-ed6891aaee9d)
-)
+(https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/2f45b41b-6107-48ba-8a6e-ed6891aaee9d)
+
 ![image]()
 ![image]()
 ![image]()
