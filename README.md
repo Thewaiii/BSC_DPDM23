@@ -12,3 +12,7 @@ Data Preparation and Data Mining
 - Quiz(เดี่ยว ถามในห้อง) 5%
 - GitHub 5%
 Final Score = Score * %attendance
+**************************************************************************************************
+# Decision Tree
+HW2
+![image](file:///C:/Users/ADmin/Downloads/HW2-Data-mining.pdf)
