@@ -19,7 +19,7 @@ Final Score = Score * %attendance
 - 643021261-5 นางสาวจารุพร การร้อย
 - 643021263-1 นางสาวชนม์ชนก อังคุระษี
 - 643021266-5 นางสาวธิติพร ใจเอื้อ
-  PRESENTATION
+  PRESENTATION ()
 # Decision Tree
 >> HW2
-
+( https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW2-Data-mining.pdf )
