@@ -15,4 +15,5 @@ Final Score = Score * %attendance
 **************************************************************************************************
 # Decision Tree
 HW2
-![image](file:///C:/Users/ADmin/Downloads/HW2-Data-mining.pdf)
+![image](![Uploading 420042447_1811338039303351_3966380268572674402_n.jpg…]()
+)
