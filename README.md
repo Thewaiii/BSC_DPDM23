@@ -25,3 +25,17 @@ Final Score = Score * %attendance
    
 >> HW2 Decision Tree
 ( https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW2-Data-mining.pdf )
+
+>> HW3 Criterion & Max leav node
+กลุ่ม หอยหลอดด & กลุ่มกลุ้ม  MEMBERS
+
+643020501-6    นายตะวัน เบ้าหล่อเพชร
+643021260-7    นางสาวกิติลักษณ์ ลาดโฮม
+643021261-5    นางสาวจารุพร การร้อย
+643021263-1    นางสาวชนม์ชนก อังคุระษี
+643021265-7    นายธนาธิป อินทรคีรี
+643021266-5    นางสาวธิติพร ใจเอื้อ
+643021268-1    นายพุทธิพงศ์ ยางนอก
+643021273-8    นายศตวรรษ มูลสันเทียะ
+
+PRESENTATION (https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW%203.pdf)
