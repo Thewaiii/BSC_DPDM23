@@ -3,7 +3,7 @@
 
 Data Preparation and Data Mining
 
-# Score
+# Score <3
 
 - Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20%
 - Final(ทฤษฎี data mining เดี่ยว) 20%
@@ -13,7 +13,7 @@ Data Preparation and Data Mining
 - GitHub 5%
 Final Score = Score * %attendance
 **************************************************************************************************
-# Home Work
+# Home Work :P
 >> HW1 Frequent set item set และ Association rules
 กลุ่ม หอยหลอดด MEMBERS
 - 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
@@ -39,3 +39,13 @@ Final Score = Score * %attendance
 - 643021273-8    นายศตวรรษ มูลสันเทียะ
 
 PRESENTATION (https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW%203.pdf)
+
+>> HW4 Criterion & Max leav node (ทำมือ)
+กลุ่ม หอยหลอดด & กลุ่มกลุ้ม
+ PRESENTATION (https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW4_Decision-Tree_Presentation.pdf)
+
+
+
+
+
+
