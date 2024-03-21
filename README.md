@@ -26,6 +26,7 @@ GitHub|ความสวยงาม| 5%|
 - 643021266-5 นางสาวธิติพร ใจเอื้อ
   ![432176297_736539428615670_8623001899511807607_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/736c9c2e-e258-460f-884d-15520123569d)
   PRESENTATION (https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW1-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
+  github (https://github.com/Thewaiii/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
   
    
 ###  HW2 Decision Tree
@@ -50,6 +51,7 @@ GitHub|ความสวยงาม| 5%|
 - 643021273-8    นายศตวรรษ มูลสันเทียะ
 ![433246600_399884535989722_7764829011784205143_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/4fad7ea6-be04-44ab-ad47-dced525ddd5e)
 PRESENTATION (https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW%203.pdf)
+githau (https://github.com/Thewaiii/BSC_DPDM23/blob/main/Classification.ipynb)
 
 ###  HW4 Criterion & Max leav node (ทำมือ)
 กลุ่ม หอยหลอดด & กลุ่มกลุ้ม
@@ -83,8 +85,15 @@ PRESENTATION(https://github.com/Thewaiii/BSC_DPDM23/blob/main/Hw5.pdf)
   
 ![432155681_391834267039522_8080639737351324906_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/0deab5f9-0700-4668-952e-944a60b0afe1)
 PRESENTATION (https://github.com/Thewaiii/BSC_DPDM23/blob/main/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%20NMN%20%26%20%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
+githup (https://github.com/Thewaiii/BSC_DPDM23/blob/main/Project.ipynb)
 
 **************************************************************************************************
+
+# Midterm
+github (https://github.com/Thewaiii/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
+
+---------------------------------------------------------------------------------------------------
+
 # Note
 
 
