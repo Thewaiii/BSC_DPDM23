@@ -1,4 +1,11 @@
-😺 จารุพร การร้อย 643021261-5 😺
+# 😺 จารุพร การร้อย 643021261-5 😺
+
+
+![431866768_1375628507166889_1313171474297905689_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/661019b9-f4af-4b4e-b73e-da0417c7e700)
+
+
+
+
 # BSC_DPDM23
 
 >>Data Preparation and Data Mining
@@ -40,15 +47,26 @@ GitHub|ความสวยงาม| 5%|
 >>- 643021266-5 นางสาวธิติพร ใจเอื้อ
   ![432176297_736539428615670_8623001899511807607_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/736c9c2e-e258-460f-884d-15520123569d)
 
->> - PRESENTATION : [Click to go to PRESENTATION HW1](https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW1-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf) 
->> - Code : [Click to go to colab HW1](https://github.com/Thewaiii/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
+
+ Content |  |
+ -----|-----
+| PRESENTATION | [Click to go to PRESENTATION HW1](https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW1-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)|
+| Code | [Click to go to colab HW1](https://github.com/Thewaiii/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)|
+
+
+
+
    
 ###  HW2 Decision Tree
 >>- 643021261-5 นางสาวจารุพร การร้อย (งานเดี่ยว)
   
 ![433416381_421316300395993_8872054173223758986_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/80ba5e14-f528-4737-8c37-0f8f5f83e104)
 
->>- Work : [Click to go to HW2]( https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW2-Data-mining.pdf )
+ Content |  |
+ -----|-----
+|Work | [Click to go to HW2]( https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW2-Data-mining.pdf )
+
+
 
  
 
@@ -64,8 +82,14 @@ GitHub|ความสวยงาม| 5%|
 >>- 643021268-1    นายพุทธิพงศ์ ยางนอก
 >>- 643021273-8    นายศตวรรษ มูลสันเทียะ
 ![433246600_399884535989722_7764829011784205143_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/4fad7ea6-be04-44ab-ad47-dced525ddd5e)
->>- PRESENTATION : [Click to go to PRESENTATION HW3](https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW%203.pdf)
->>- Code : [Click to go to colab HW3](https://github.com/Thewaiii/BSC_DPDM23/blob/main/Classification.ipynb)
+
+ Content |  |
+ -----|-----
+| PRESENTATION | [Click to go to PRESENTATION HW3](https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW%203.pdf)|
+| Code | [Click to go to colab HW3](https://github.com/Thewaiii/BSC_DPDM23/blob/main/Classification.ipynb)|
+
+
+
 
 ###  HW4 Criterion & Max leav node (ทำมือ)
 >>กลุ่ม หอยหลอดด & กลุ่มกลุ้ม
@@ -79,14 +103,25 @@ GitHub|ความสวยงาม| 5%|
 >>- 643021273-8    นายศตวรรษ มูลสันเทียะ
 ![432211852_1849411182176373_1918492223156179077_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/c5d2b408-a67e-4a81-9733-a14c94c348d7)
 
->>- PRESENTATION : [Click to go to PRESENTATION HW4](https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW4_Decision-Tree_Presentation.pdf)
->>- written on paper : [Click to go to written on paper HW4](https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW4_criterionmax-leaf-nodes.pdf)
+ Content |  |
+ -----|-----
+| PRESENTATION | [Click to go to PRESENTATION HW4](https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW4_Decision-Tree_Presentation.pdf)|
+| written on paper | [Click to go to written on paper HW4](https://github.com/Thewaiii/BSC_DPDM23/blob/main/HW4_criterionmax-leaf-nodes.pdf)|
+
+
+
+
+
 ### HW5 Perceptron
 
 >>- 643021261-5 นางสาวจารุพร การร้อย (งานเดี่ยว)
 
 ![433378933_776240644061884_7662085103238811665_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/d58c0169-72d8-4498-8ee6-33deb548d01c)
->>- Work:[Click to go to Work HW5](https://github.com/Thewaiii/BSC_DPDM23/blob/main/Hw5.pdf)
+ Content |  |
+ -----|-----
+| Work | [Click to go to Work HW5](https://github.com/Thewaiii/BSC_DPDM23/blob/main/Hw5.pdf)|
+
+
 
 
 
@@ -103,8 +138,11 @@ GitHub|ความสวยงาม| 5%|
 >>- นายวุฒิชัย คำนา             รหัสนักศึกษา 643020521-0
   
 ![432155681_391834267039522_8080639737351324906_n](https://github.com/Thewaiii/BSC_DPDM23/assets/138456613/0deab5f9-0700-4668-952e-944a60b0afe1)
->>- PRESENTATION : [Click to go to PRESENTATION Project](https://github.com/Thewaiii/BSC_DPDM23/blob/main/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%20NMN%20%26%20%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
->>- Code : [Click to go to colab Project](https://github.com/Thewaiii/BSC_DPDM23/blob/main/Project.ipynb)
+
+ Content |  |
+ -----|-----
+| PRESENTATION | [Click to go to PRESENTATION Project](https://github.com/Thewaiii/BSC_DPDM23/blob/main/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%20NMN%20%26%20%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
+| Code | [Click to go to colab Project](https://github.com/Thewaiii/BSC_DPDM23/blob/main/Project.ipynb)
 
 **************************************************************************************************
 
@@ -117,7 +155,7 @@ GitHub|ความสวยงาม| 5%|
 ---------------------------------------------------------------------------------------------------
 #  📔 Drive for BSC_DPDM23 📔
 >> : [Click to go to Drive](https://drive.google.com/drive/u/0/folders/1wFSE5P1Vnt_afAp9QfDejm7eLlqR-TAG)
-# Note
+
 ------
 
 
